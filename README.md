@@ -6,6 +6,9 @@
 ## 🚀 Smart Solutions & Bahrain Utilities:
 I have developed these specialized tools to serve the Bahraini community and simplify daily financial and administrative tasks:
 
+### 🌐 Main Hub
+*   🌍 [**M. Dimistani Official Website (Portal)**](https://www.mdimistani.com)
+
 ### 🗺️ Bahrain Travel & Leisure
 *   📍 [**Where to go in Bahrain? (Events Guide)**](https://wenroo7.mdimistani.com)
 
@@ -71,6 +74,10 @@ I manage a private self-hosted infrastructure focused on automation and high ava
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🔧 Tools & Version Control
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📸 Photography & Creative Design
 ![Professional Photography](https://img.shields.io/badge/Professional%20Photography-000000?style=for-the-badge&logo=icloud&logoColor=white)

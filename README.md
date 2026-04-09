@@ -29,18 +29,21 @@ I have developed these specialized tools to serve the Bahraini community and sim
 ---
 
 ## 🏠 Home Lab & Media Automation Stack:
-I manage a private self-hosted infrastructure focused on automation and service availability:
+I manage a private self-hosted infrastructure focused on automation and high availability:
 
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4EF?style=for-the-badge&logo=Jellyfin&logoColor=white)
+![Jellyseerr](https://img.shields.io/badge/Jellyseerr-E12F3F?style=for-the-badge&logo=Jellyseerr&logoColor=white)
 ![Sonarr](https://img.shields.io/badge/Sonarr-00BCF2?style=for-the-badge&logo=Sonarr&logoColor=white)
 ![Radarr](https://img.shields.io/badge/Radarr-FFC230?style=for-the-badge&logo=Radarr&logoColor=black)
 ![Prowlarr](https://img.shields.io/badge/Prowlarr-ECB32E?style=for-the-badge&logo=Prowlarr&logoColor=black)
 ![Bazarr](https://img.shields.io/badge/Bazarr-3F51B5?style=for-the-badge&logo=Bazarr&logoColor=white)
+![FlareSolverr](https://img.shields.io/badge/FlareSolverr-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Transmission](https://img.shields.io/badge/Torrent_Server-D34434?style=for-the-badge&logo=Transmission&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEFF?style=for-the-badge&logo=Portainer&logoColor=white)
 
-- **Streaming:** Jellyfin & Jellyseerr for the ultimate viewing experience.
-- **Automation:** Fully integrated Arr Stack (Radarr, Sonarr, Prowlarr, Bazarr).
-- **Download Tech:** Torrent Server with FlareSolverr for bypass automation.
+- **Media Center:** Automated streaming with **Jellyfin** & **Jellyseerr**.
+- **Content Automation:** Seamless management via **Sonarr**, **Radarr**, **Prowlarr**, and **Bazarr**.
+- **Backend:** Managed via **Portainer** and protected by **FlareSolverr**.
 
 ---
 

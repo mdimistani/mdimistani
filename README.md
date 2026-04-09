@@ -7,33 +7,40 @@
 I have developed these specialized tools to serve the Bahraini community and simplify daily financial and administrative tasks:
 
 ### 🗺️ Bahrain Travel & Leisure
-* [📍 **Where to go in Bahrain? (Events Guide)**](https://wenroo7.mdimistani.com)
+*   📍 [**Where to go in Bahrain? (Events Guide)**](https://wenroo7.mdimistani.com)
 
 ### 📈 Financial Consulting & Gold
-* [💰 **Smart Gold Advisor**](https://gold.mdimistani.com)
-* [🥈 **Smart Silver Advisor**](https://silver.mdimistani.com)
-* [💸 **Payroll & Entitlements Manager**](https://salary.mdimistani.com)
-* [📉 **Smart Budget Planner**](https://mizani.mdimistani.com)
-* [👥 **Smart Jamia Organizer**](https://aljamya.mdimistani.com)
+*   💰 [**Smart Gold Advisor**](https://gold.mdimistani.com)
+*   🥈 [**Smart Silver Advisor**](https://silver.mdimistani.com)
+*   💸 [**Payroll & Entitlements Manager**](https://salary.mdimistani.com)
+*   📉 [**Smart Budget Planner**](https://mizani.mdimistani.com)
+*   👥 [**Smart Jamia Organizer**](https://aljamya.mdimistani.com)
 
 ### 🏛️ Government Services & Housing
-* [🏠 **Housing Finance Advisor (Sakan)**](https://sakan.mdimistani.com)
-* [📊 **Government Support Calculator**](https://subs.mdimistani.com)
-* [⚡ **EWA Consumption Calculator**](https://ewa.mdimistani.com)
-* [🕒 **Overtime Pay Calculator**](https://overtime.mdimistani.com)
-* [📅 **Smart Date Management Tools**](https://datecalculator.mdimistani.com)
+*   🏠 [**Housing Finance Advisor (Sakan)**](https://sakan.mdimistani.com)
+*   📊 [**Government Support Calculator**](https://subs.mdimistani.com)
+*   ⚡ [**EWA Consumption Calculator**](https://ewa.mdimistani.com)
+*   🕒 [**Overtime Pay Calculator**](https://overtime.mdimistani.com)
+*   📅 [**Smart Date Management Tools**](https://datecalculator.mdimistani.com)
 
 ### ⚖️ Sharia Rights & Duties
-* [🕌 **Smart Khums Calculator**](https://khums.mdimistani.com)
+*   🕌 [**Smart Khums Calculator**](https://khums.mdimistani.com)
 
 ---
 
 ## 🏠 Home Lab & Media Automation Stack:
 I manage a private self-hosted infrastructure focused on automation and service availability:
-- **Media Server:** [Jellyfin] & [Jellyseerr] for a seamless streaming experience.
-- **The Arr Stack:** Fully automated media management via [Sonarr, Radarr, Prowlarr, Bazarr].
-- **Download Engine:** High-performance [Torrent Server] integrated with [FlareSolverr].
-- **Orchestration:** [Portainer] for Docker container management and stack monitoring.
+
+![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4EF?style=for-the-badge&logo=Jellyfin&logoColor=white)
+![Sonarr](https://img.shields.io/badge/Sonarr-00BCF2?style=for-the-badge&logo=Sonarr&logoColor=white)
+![Radarr](https://img.shields.io/badge/Radarr-FFC230?style=for-the-badge&logo=Radarr&logoColor=black)
+![Prowlarr](https://img.shields.io/badge/Prowlarr-ECB32E?style=for-the-badge&logo=Prowlarr&logoColor=black)
+![Bazarr](https://img.shields.io/badge/Bazarr-3F51B5?style=for-the-badge&logo=Bazarr&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEFF?style=for-the-badge&logo=Portainer&logoColor=white)
+
+- **Streaming:** Jellyfin & Jellyseerr for the ultimate viewing experience.
+- **Automation:** Fully integrated Arr Stack (Radarr, Sonarr, Prowlarr, Bazarr).
+- **Download Tech:** Torrent Server with FlareSolverr for bypass automation.
 
 ---
 
@@ -68,10 +75,6 @@ I manage a private self-hosted infrastructure focused on automation and service 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
 ![Capture One](https://img.shields.io/badge/Capture%20One-000000?style=for-the-badge&logo=photo-editor&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-### 🔧 Tools & Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 *Self-hosted and automated on my private Infrastructure.*

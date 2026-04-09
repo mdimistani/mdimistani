@@ -1,5 +1,12 @@
 # Hi, I'm Mohammed Jaafar Ali 👋
-### Systems & IT Engineer | Smart Solutions Developer | Professional Photographer
+### Systems & IT Engineer | Smart Solutions Developer
+
+---
+
+## 👨‍💻 About Me
+I am a dedicated **Systems & IT Engineer** based in Bahrain, specializing in designing and maintaining robust IT infrastructures and automated smart solutions. My core expertise lies in high-availability **Home Lab** environments, server orchestration, and developing utility-driven web applications tailored to the local community's needs. 
+
+I am deeply committed to the principles of self-hosting and security, constantly optimizing workflows through automation to create efficient, scalable, and user-centric digital tools.
 
 ---
 
@@ -80,11 +87,10 @@ I manage a private self-hosted infrastructure focused on automation and high ava
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📸 Photography & Creative Design
+### 📸 Photography & Creative Tools
 ![Professional Photography](https://img.shields.io/badge/Professional%20Photography-000000?style=for-the-badge&logo=icloud&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Capture One](https://img.shields.io/badge/Capture%20One-000000?style=for-the-badge&logo=photo-editor&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---

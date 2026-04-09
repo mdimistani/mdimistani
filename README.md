@@ -3,37 +3,37 @@
 
 ---
 
-## 🚀 My Smart Solutions (Bahrain Utilities):
-لقد قمت بتطوير هذه الأدوات لخدمة المجتمع البحريني وتسهيل العمليات الحسابية واليومية:
+## 🚀 Smart Solutions & Bahrain Utilities:
+I have developed these specialized tools to serve the Bahraini community and simplify daily financial and administrative tasks:
 
-### 🗺️ دليل البحرين والترفيه
-*   [📍 **وين نروح بالبحرين؟ (دليل الفعاليات)**](https://wenroo7.mdimistani.com)
+### 🗺️ Bahrain Travel & Leisure
+* [📍 **Where to go in Bahrain? (Events Guide)**](https://wenroo7.mdimistani.com)
 
-### 📈 الاستشارات المالية والذهب
-*   [💰 **المستشار الذكي للذهب**](https://gold.mdimistani.com)
-*   [🥈 **المستشار الذكي للفضة**](https://silver.mdimistani.com)
-*   [💸 **إدارة المستحقات والرواتب**](https://salary.mdimistani.com)
-*   [📉 **مخطط الميزانية الذكي**](https://mizani.mdimistani.com)
-*   [👥 **منظم الجمعية الذكي**](https://aljamya.mdimistani.com)
+### 📈 Financial Consulting & Gold
+* [💰 **Smart Gold Advisor**](https://gold.mdimistani.com)
+* [🥈 **Smart Silver Advisor**](https://silver.mdimistani.com)
+* [💸 **Payroll & Entitlements Manager**](https://salary.mdimistani.com)
+* [📉 **Smart Budget Planner**](https://mizani.mdimistani.com)
+* [👥 **Smart Jamia Organizer**](https://aljamya.mdimistani.com)
 
-### 🏛️ الخدمات الحكومية والسكن
-*   [🏠 **مستشار التمويل الإسكاني (سكن)**](https://sakan.mdimistani.com)
-*   [📊 **حاسبة الدعم الحكومي**](https://subs.mdimistani.com)
-*   [⚡ **حساب استهلاك الكهرباء EWA**](https://ewa.mdimistani.com)
-*   [🕒 **حساب الساعات الإضافية**](https://overtime.mdimistani.com)
-*   [📅 **أدوات إدارة التواريخ الذكية**](https://datecalculator.mdimistani.com)
+### 🏛️ Government Services & Housing
+* [🏠 **Housing Finance Advisor (Sakan)**](https://sakan.mdimistani.com)
+* [📊 **Government Support Calculator**](https://subs.mdimistani.com)
+* [⚡ **EWA Consumption Calculator**](https://ewa.mdimistani.com)
+* [🕒 **Overtime Pay Calculator**](https://overtime.mdimistani.com)
+* [📅 **Smart Date Management Tools**](https://datecalculator.mdimistani.com)
 
-### ⚖️ بوابة الحقوق والواجبات الشرعية
-*   [🕌 **حاسبة الخمس الشرعي**](https://khums.mdimistani.com)
+### ⚖️ Sharia Rights & Duties
+* [🕌 **Smart Khums Calculator**](https://khums.mdimistani.com)
 
 ---
 
 ## 🏠 Home Lab & Media Automation Stack:
-أدير مختبري المنزلي الخاص باستخدام تقنيات الأتمتة والخدمات الذاتية:
+I manage a private self-hosted infrastructure focused on automation and service availability:
 - **Media Server:** [Jellyfin] & [Jellyseerr] for a seamless streaming experience.
 - **The Arr Stack:** Fully automated media management via [Sonarr, Radarr, Prowlarr, Bazarr].
 - **Download Engine:** High-performance [Torrent Server] integrated with [FlareSolverr].
-- **Management:** [Portainer] for Docker orchestration and stack monitoring.
+- **Orchestration:** [Portainer] for Docker container management and stack monitoring.
 
 ---
 
@@ -41,7 +41,8 @@
 
 ### 🖥️ System Administration & Infrastructure
 ![System Administrator](https://img.shields.io/badge/System%20Administrator-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEFF?style=for-the-badge&logo=Portainer&logoColor=white)
+![Microsoft](https://img.shields.io/badge/MCSA%20%26%20MCSE-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)

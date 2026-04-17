@@ -146,7 +146,6 @@ Running a private self-hosted infrastructure focused on automation and high avai
 ---
 
 ## 💡 Profile Configuration Guide
-لتنسيق الخانات الجانبية في بروفايلك بشكل احترافي، استخدم البيانات التالية في إعدادات GitHub:
 
 * **Location:** `Bahrain 🇧🇭`
 * **Website:** `https://mdimistani.com`

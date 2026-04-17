@@ -44,10 +44,27 @@ I am deeply committed to the principles of self-hosting, security, and constantl
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <h4>🖥️ IT Management Suite</h4>
-      <p>Full-stack infrastructure management system (MVC). 12 modules covering assets, servers, switches, printers, and licenses. Features RBAC system and M365 alerts.</p>
+      <p>Full-stack infrastructure management system (MVC). 12 modules covering assets, servers, switches, printers, ISP, tokens, licenses, reports, users, notifications, backup, and dashboard. Built with Node.js + MySQL + Docker on Synology NAS. Bilingual AR/EN with 36-permission RBAC system and M365 email alerts.</p>
       <code>Node.js</code> <code>MySQL</code> <code>Docker</code> <code>EJS</code> <code>Bootstrap</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 Server Monitor Dashboard</h4>
+      <p>Real-time server monitoring dashboard for personal infrastructure. Tracks uptime, CPU, RAM, and network stats with clean visual interface. Deployed via Docker on Synology NAS.</p>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍽️ Bahraini Restaurant Randomizer</h4>
+      <p>Interactive web app that picks a random Bahraini restaurant for you. Features local restaurant database with categories, locations, and ratings. Built with pure HTML/CSS/JS.</p>
+      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 Networking & Servers Quiz</h4>
+      <p>Interactive quiz app covering networking fundamentals, Windows Server, and infrastructure topics. Great for MCSA/MCSE prep and family IT gatherings.</p>
+      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
     </td>
   </tr>
 </table>
@@ -129,6 +146,7 @@ Running a private self-hosted infrastructure focused on automation and high avai
 ---
 
 ## 💡 Profile Configuration Guide
+لتنسيق الخانات الجانبية في بروفايلك بشكل احترافي، استخدم البيانات التالية في إعدادات GitHub:
 
 * **Location:** `Bahrain 🇧🇭`
 * **Website:** `https://mdimistani.com`

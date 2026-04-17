@@ -19,55 +19,32 @@ I am deeply committed to the principles of self-hosting, security, and constantl
 
 ---
 
-## 🚀 Smart Solutions & Bahrain Utilities
-لقد قمت بتطوير هذه الأدوات المتخصصة لخدمة المجتمع البحريني وتسهيل المهام المالية والإدارية اليومية:
+## 🚀 Key Initiative: IT-Suite Management System
 
-| 🌐 المداخل الرئيسية | 🗺️ الترفيه والسياحة |
-| :--- | :--- |
-| 🌍 [**M. Dimistani Official Website**](https://www.mdimistani.com) | 📍 [**Where to go in Bahrain?**](https://wenroo7.mdimistani.com) |
-
-| 📈 الاستشارات المالية والذهب | 🏛️ الخدمات الحكومية والإسكان |
-| :--- | :--- |
-| 💰 [Smart Gold Advisor](https://gold.mdimistani.com) | 🏠 [Housing Finance Advisor (Sakan)](https://sakan.mdimistani.com) |
-| 🥈 [Smart Silver Advisor](https://silver.mdimistani.com) | 📊 [Government Support Calculator](https://subs.mdimistani.com) |
-| 💸 [Payroll & Entitlements Manager](https://salary.mdimistani.com) | ⚡ [EWA Consumption Calculator](https://ewa.mdimistani.com) |
-| 📉 [Smart Budget Planner](https://mizani.mdimistani.com) | 🕒 [Overtime Pay Calculator](https://overtime.mdimistani.com) |
-| 👥 [Smart Jamia Organizer](https://aljamya.mdimistani.com) | 📅 [Smart Date Management Tools](https://datecalculator.mdimistani.com) |
-
-| ⚖️ الحقوق الشرعية |
-| :--- |
-| 🕌 [**Smart Khums Calculator**](https://khums.mdimistani.com) |
+> **Project Overview**
+> The **IT Management Suite** is a comprehensive technical initiative submitted to the **Ministry of Labour in the Kingdom of Bahrain** on **April 14, 2026**, and has been officially approved to enhance digital infrastructure management efficiency.
+> 
+> **Technical Highlights:**
+> * **Granular User Management:** Enables creating dedicated accounts with precise role-based access control (RBAC). Permissions can be assigned per module (View, Add, Edit, or Delete) to ensure maximum security and administrative oversight.
+> * **Comprehensive Reporting System:** Features an advanced analytics engine for generating detailed reports on all system components (Assets, Licenses, Server Status, and Networking), with export capabilities to support data-driven technical decision-making.
+> * **Architecture:** Built on **MVC** architecture using **Node.js** and **MySQL**, deployed via **Docker** on **Synology NAS** to ensure high availability and prevent data loss.
 
 ---
 
-## 🖥️ Featured Projects
+## 🌐 Smart Solutions & Bahrain Utilities
+I have developed these specialized tools to serve the Bahraini community and simplify daily financial and administrative tasks:
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🖥️ IT Management Suite</h4>
-      <p>Full-stack infrastructure management system (MVC). 12 modules covering assets, servers, switches, printers, ISP, tokens, licenses, reports, users, notifications, backup, and dashboard. Built with Node.js + MySQL + Docker on Synology NAS. Bilingual AR/EN with 36-permission RBAC system and M365 email alerts.</p>
-      <code>Node.js</code> <code>MySQL</code> <code>Docker</code> <code>EJS</code> <code>Bootstrap</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 Server Monitor Dashboard</h4>
-      <p>Real-time server monitoring dashboard for personal infrastructure. Tracks uptime, CPU, RAM, and network stats with clean visual interface. Deployed via Docker on Synology NAS.</p>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Docker</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🍽️ Bahraini Restaurant Randomizer</h4>
-      <p>Interactive web app that picks a random Bahraini restaurant for you. Features local restaurant database with categories, locations, and ratings. Built with pure HTML/CSS/JS.</p>
-      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 Networking & Servers Quiz</h4>
-      <p>Interactive quiz app covering networking fundamentals, Windows Server, and infrastructure topics. Great for MCSA/MCSE prep and family IT gatherings.</p>
-      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
-    </td>
-  </tr>
-</table>
+| 🌐 Main Gateways | 🗺️ Leisure & Tourism |
+| :--- | :--- |
+| 🌍 [**M. Dimistani Official Website**](https://www.mdimistani.com) | 📍 [**Where to go in Bahrain?**](https://wenroo7.mdimistani.com) |
+
+| 📈 Financial & Gold Advisory | 🏛️ Government Services |
+| :--- | :--- |
+| 💰 [Smart Gold Advisor](https://gold.mdimistani.com) | 📊 [Government Support Calculator](https://subs.mdimistani.com) |
+| 🥈 [Smart Silver Advisor](https://silver.mdimistani.com) | ⚡ [EWA Consumption Calculator](https://ewa.mdimistani.com) |
+| 💸 [Payroll & Entitlements Manager](https://salary.mdimistani.com) | 🕒 [Overtime Pay Calculator](https://overtime.mdimistani.com) |
+| 📉 [Smart Budget Planner](https://mizani.mdimistani.com) | 📅 [Smart Date Management Tools](https://datecalculator.mdimistani.com) |
+| 👥 [Smart Jamia Organizer](https://aljamya.mdimistani.com) | 🕌 [**Smart Khums Calculator**](https://khums.mdimistani.com) |
 
 ---
 
@@ -103,13 +80,6 @@ I am deeply committed to the principles of self-hosting, security, and constantl
 ![Tailscale](https://img.shields.io/badge/Tailscale-4433E2?style=for-the-badge&logo=Tailscale&logoColor=white)
 ![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
 ![CCTV](https://img.shields.io/badge/CCTV%20Surveillance-000000?style=for-the-badge&logo=google-nest&logoColor=white)
-<br><br>
-
-**Creative Tools**
-<br>
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
@@ -133,8 +103,6 @@ Running a private self-hosted infrastructure focused on automation and high avai
 
 * **Virtualization:** Powered by **Proxmox VE** (VMs + LXC containers).
 * **Smart Home:** **Home Assistant** for central IoT orchestration.
-* **Media Center:** Automated streaming and content management via the "Arr" stack.
-* **Management:** Orchestrated via **Portainer** and **Docker**.
 * **Security:** Secure external access via **Cloudflare Tunnels** & **Tailscale**.
 
 ---
@@ -142,13 +110,6 @@ Running a private self-hosted infrastructure focused on automation and high avai
 ## 📜 Certifications
 * 🏅 **MCSE** — Microsoft Certified Solutions Expert
 * 🏅 **MCSA** — Microsoft Certified Solutions Associate (Windows Server)
-
----
-
-## 💡 Profile Configuration Guide
-
-* **Location:** `Bahrain 🇧🇭`
-* **Website:** `https://mdimistani.com`
 
 ---
 

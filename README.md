@@ -71,48 +71,71 @@ I am deeply committed to the principles of self-hosting, security, and constantl
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🛠️ Tech Stack & Professional Expertise
 
 <div align="center">
 
-**Systems & Infrastructure**
+**Systems Administration & Infrastructure**
 <br>
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![System Administrator](https://img.shields.io/badge/System%20Administrator-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Microsoft](https://img.shields.io/badge/MCSA%20%26%20MCSE-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E74C3C?style=for-the-badge&logo=Proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Synology](https://img.shields.io/badge/Synology_NAS-B6B5B6?style=for-the-badge&logo=synology&logoColor=black)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![NAS Storage](https://img.shields.io/badge/NAS%20Storage-FF6600?style=for-the-badge&logo=synology&logoColor=white)
 <br><br>
 
-**Web Development**
+**Web Development & CMS**
 <br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 <br><br>
 
 **Networking & Security**
 <br>
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-4433E2?style=for-the-badge&logo=Tailscale&logoColor=white)
 ![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![CCTV](https://img.shields.io/badge/CCTV%20Surveillance-000000?style=for-the-badge&logo=google-nest&logoColor=white)
+<br><br>
+
+**Creative Tools**
+<br>
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
 ---
 
 ## 🏠 Home Lab & Media Automation
-Running a private self-hosted infrastructure focused on high availability:
+I manage a private self-hosted infrastructure focused on automation and high availability:
+
+<div align="center">
+
+![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4EF?style=for-the-badge&logo=Jellyfin&logoColor=white)
+![Jellyseerr](https://img.shields.io/badge/Jellyseerr-E12F3F?style=for-the-badge&logo=Jellyseerr&logoColor=white)
+![Sonarr](https://img.shields.io/badge/Sonarr-00BCF2?style=for-the-badge&logo=Sonarr&logoColor=white)
+![Radarr](https://img.shields.io/badge/Radarr-FFC230?style=for-the-badge&logo=Radarr&logoColor=black)
+![Prowlarr](https://img.shields.io/badge/Prowlarr-ECB32E?style=for-the-badge&logo=Prowlarr&logoColor=black)
+![Bazarr](https://img.shields.io/badge/Bazarr-3F51B5?style=for-the-badge&logo=Bazarr&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEFF?style=for-the-badge&logo=Portainer&logoColor=white)
+
+</div>
 
 * **Virtualization:** **Proxmox VE** managing multiple VMs and LXC containers.
 * **Smart Home:** **Home Assistant** for central IoT orchestration.
-* **Media Stack:** Automated via **Jellyfin, Sonarr, Radarr, Prowlarr, and Bazarr**.
+* **Media Center:** Automated streaming and content management via the "Arr" stack.
 * **Management:** Orchestrated via **Portainer** and **Docker**.
-* **Security:** Secure tunnels and identity management via **Cloudflare** & **Tailscale**.
+* **Connectivity:** Secure external access via **Cloudflare Tunnels** & **Tailscale**.
 
 ---
 

@@ -44,27 +44,10 @@ I am deeply committed to the principles of self-hosting, security, and constantl
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h4>🖥️ IT Management Suite</h4>
       <p>Full-stack infrastructure management system (MVC). 12 modules covering assets, servers, switches, printers, and licenses. Features RBAC system and M365 alerts.</p>
-      <code>Node.js</code> <code>MySQL</code> <code>Docker</code> <code>EJS</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 <a href="https://github.com/MDimistani/server-monitor">Server Monitor Dashboard</a></h4>
-      <p>Real-time monitoring for personal infrastructure. Tracks CPU, RAM, and network uptime with a clean visual interface.</p>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Docker</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🍽️ <a href="https://github.com/MDimistani/restaurant-randomizer">Bahraini Restaurant Picker</a></h4>
-      <p>Interactive web app that picks a random Bahraini restaurant based on local categories and ratings.</p>
-      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 <a href="https://github.com/MDimistani/network-quiz">Networking & Servers Quiz</a></h4>
-      <p>Interactive quiz app covering networking fundamentals and Windows Server topics for MCSA/MCSE prep.</p>
-      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
+      <code>Node.js</code> <code>MySQL</code> <code>Docker</code> <code>EJS</code> <code>Bootstrap</code>
     </td>
   </tr>
 </table>
@@ -116,7 +99,7 @@ I am deeply committed to the principles of self-hosting, security, and constantl
 ---
 
 ## 🏠 Home Lab & Media Automation
-I manage a private self-hosted infrastructure focused on automation and high availability:
+Running a private self-hosted infrastructure focused on automation and high availability:
 
 <div align="center">
 
@@ -131,17 +114,25 @@ I manage a private self-hosted infrastructure focused on automation and high ava
 
 </div>
 
-* **Virtualization:** **Proxmox VE** managing multiple VMs and LXC containers.
+* **Virtualization:** Powered by **Proxmox VE** (VMs + LXC containers).
 * **Smart Home:** **Home Assistant** for central IoT orchestration.
 * **Media Center:** Automated streaming and content management via the "Arr" stack.
 * **Management:** Orchestrated via **Portainer** and **Docker**.
-* **Connectivity:** Secure external access via **Cloudflare Tunnels** & **Tailscale**.
+* **Security:** Secure external access via **Cloudflare Tunnels** & **Tailscale**.
 
 ---
 
 ## 📜 Certifications
 * 🏅 **MCSE** — Microsoft Certified Solutions Expert
 * 🏅 **MCSA** — Microsoft Certified Solutions Associate (Windows Server)
+
+---
+
+## 💡 Profile Configuration Guide
+لتنسيق الخانات الجانبية في بروفايلك بشكل احترافي، استخدم البيانات التالية في إعدادات GitHub:
+
+* **Location:** `Bahrain 🇧🇭`
+* **Website:** `https://mdimistani.com`
 
 ---
 

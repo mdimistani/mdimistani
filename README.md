@@ -1,97 +1,129 @@
-# Hi, I'm Mohammed Jaafar Ali 👋
-### Systems & IT Engineer | Smart Solutions Developer
+# 👨‍💻 Mohamed Jaafar Ali
+### Systems & IT Engineer | Smart Solutions Developer | Infrastructure Specialist
+
+<div align="center">
+
+**Building tools that simplify IT operations and serve the Bahraini community.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mdimistani.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mdimistani.com)
+[![GitHub](https://img.shields.io/badge/GitHub-MDimistani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MDimistani)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
-I am a dedicated **Systems & IT Engineer** based in Bahrain, specializing in designing and maintaining robust IT infrastructures and automated smart solutions. My core expertise lies in high-availability **Home Lab** environments, server orchestration, and developing utility-driven web applications tailored to the local community's needs. 
+I am a dedicated **Systems & IT Engineer** based in Bahrain, specializing in designing and maintaining robust IT infrastructures and automated smart solutions. My expertise bridges the gap between high-level **System Administration** and practical **Web Development**, focused on creating efficient, scalable, and user-centric digital tools.
 
-I am deeply committed to the principles of self-hosting and security, constantly optimizing workflows through automation to create efficient, scalable, and user-centric digital tools.
-
----
-
-## 🚀 Smart Solutions & Bahrain Utilities:
-I have developed these specialized tools to serve the Bahraini community and simplify daily financial and administrative tasks:
-
-### 🌐 Main Hub
-*   🌍 [**M. Dimistani Official Website (Portal)**](https://www.mdimistani.com)
-
-### 🗺️ Bahrain Travel & Leisure
-*   📍 [**Where to go in Bahrain? (Events Guide)**](https://wenroo7.mdimistani.com)
-
-### 📈 Financial Consulting & Gold
-*   💰 [**Smart Gold Advisor**](https://gold.mdimistani.com)
-*   🥈 [**Smart Silver Advisor**](https://silver.mdimistani.com)
-*   💸 [**Payroll & Entitlements Manager**](https://salary.mdimistani.com)
-*   📉 [**Smart Budget Planner**](https://mizani.mdimistani.com)
-*   👥 [**Smart Jamia Organizer**](https://aljamya.mdimistani.com)
-
-### 🏛️ Government Services & Housing
-*   🏠 [**Housing Finance Advisor (Sakan)**](https://sakan.mdimistani.com)
-*   📊 [**Government Support Calculator**](https://subs.mdimistani.com)
-*   ⚡ [**EWA Consumption Calculator**](https://ewa.mdimistani.com)
-*   🕒 [**Overtime Pay Calculator**](https://overtime.mdimistani.com)
-*   📅 [**Smart Date Management Tools**](https://datecalculator.mdimistani.com)
-
-### ⚖️ Sharia Rights & Duties
-*   🕌 [**Smart Khums Calculator**](https://khums.mdimistani.com)
+I am deeply committed to the principles of self-hosting, security, and constantly optimizing workflows through automation.
 
 ---
 
-## 🏠 Home Lab & Media Automation Stack:
-I manage a private self-hosted infrastructure focused on automation and high availability:
+## 🚀 Smart Solutions & Bahrain Utilities
+لقد قمت بتطوير هذه الأدوات المتخصصة لخدمة المجتمع البحريني وتسهيل المهام المالية والإدارية اليومية:
 
-![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
-![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4EF?style=for-the-badge&logo=Jellyfin&logoColor=white)
-![Jellyseerr](https://img.shields.io/badge/Jellyseerr-E12F3F?style=for-the-badge&logo=Jellyseerr&logoColor=white)
-![Sonarr](https://img.shields.io/badge/Sonarr-00BCF2?style=for-the-badge&logo=Sonarr&logoColor=white)
-![Radarr](https://img.shields.io/badge/Radarr-FFC230?style=for-the-badge&logo=Radarr&logoColor=black)
-![Prowlarr](https://img.shields.io/badge/Prowlarr-ECB32E?style=for-the-badge&logo=Prowlarr&logoColor=black)
-![Bazarr](https://img.shields.io/badge/Bazarr-3F51B5?style=for-the-badge&logo=Bazarr&logoColor=white)
-![FlareSolverr](https://img.shields.io/badge/FlareSolverr-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Portainer](https://img.shields.io/badge/Portainer-13BEFF?style=for-the-badge&logo=Portainer&logoColor=white)
+| 🌐 المداخل الرئيسية | 🗺️ الترفيه والسياحة |
+| :--- | :--- |
+| 🌍 [**M. Dimistani Official Website**](https://www.mdimistani.com) | 📍 [**Where to go in Bahrain?**](https://wenroo7.mdimistani.com) |
 
-- **Smart Home:** Powered by **Home Assistant** for central IoT orchestration.
-- **Media Center:** Automated streaming with **Jellyfin** & **Jellyseerr**.
-- **Content Automation:** Seamless management via **Sonarr**, **Radarr**, **Prowlarr**, and **Bazarr**.
-- **Management:** Orchestrated via **Portainer** and **Docker**.
+| 📈 الاستشارات المالية والذهب | 🏛️ الخدمات الحكومية والإسكان |
+| :--- | :--- |
+| 💰 [Smart Gold Advisor](https://gold.mdimistani.com) | 🏠 [Housing Finance Advisor (Sakan)](https://sakan.mdimistani.com) |
+| 🥈 [Smart Silver Advisor](https://silver.mdimistani.com) | 📊 [Government Support Calculator](https://subs.mdimistani.com) |
+| 💸 [Payroll & Entitlements Manager](https://salary.mdimistani.com) | ⚡ [EWA Consumption Calculator](https://ewa.mdimistani.com) |
+| 📉 [Smart Budget Planner](https://mizani.mdimistani.com) | 🕒 [Overtime Pay Calculator](https://overtime.mdimistani.com) |
+| 👥 [Smart Jamia Organizer](https://aljamya.mdimistani.com) | 📅 [Smart Date Management Tools](https://datecalculator.mdimistani.com) |
+
+| ⚖️ الحقوق الشرعية |
+| :--- |
+| 🕌 [**Smart Khums Calculator**](https://khums.mdimistani.com) |
 
 ---
 
-## 💻 Tech Stack & Professional Expertise:
+## 🖥️ Featured Projects
 
-### 🖥️ System Administration & Infrastructure
-![System Administrator](https://img.shields.io/badge/System%20Administrator-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Microsoft](https://img.shields.io/badge/MCSA%20%26%20MCSE-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🖥️ IT Management Suite</h4>
+      <p>Full-stack infrastructure management system (MVC). 12 modules covering assets, servers, switches, printers, and licenses. Features RBAC system and M365 alerts.</p>
+      <code>Node.js</code> <code>MySQL</code> <code>Docker</code> <code>EJS</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 <a href="https://github.com/MDimistani/server-monitor">Server Monitor Dashboard</a></h4>
+      <p>Real-time monitoring for personal infrastructure. Tracks CPU, RAM, and network uptime with a clean visual interface.</p>
+      <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Docker</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍽️ <a href="https://github.com/MDimistani/restaurant-randomizer">Bahraini Restaurant Picker</a></h4>
+      <p>Interactive web app that picks a random Bahraini restaurant based on local categories and ratings.</p>
+      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 <a href="https://github.com/MDimistani/network-quiz">Networking & Servers Quiz</a></h4>
+      <p>Interactive quiz app covering networking fundamentals and Windows Server topics for MCSA/MCSE prep.</p>
+      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+<div align="center">
+
+**Systems & Infrastructure**
+<br>
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E74C3C?style=for-the-badge&logo=Proxmox&logoColor=white)
-![NAS Storage](https://img.shields.io/badge/NAS%20Storage-FF6600?style=for-the-badge&logo=synology&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Synology](https://img.shields.io/badge/Synology_NAS-B6B5B6?style=for-the-badge&logo=synology&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+<br><br>
 
-### 🛡️ Networking & Physical Security
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![CCTV](https://img.shields.io/badge/CCTV%20Surveillance-000000?style=for-the-badge&logo=google-nest&logoColor=white)
+**Web Development**
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<br><br>
+
+**Networking & Security**
+<br>
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-4433E2?style=for-the-badge&logo=Tailscale&logoColor=white)
+![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
-### 🌐 Web Development & CMS
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Tools & Version Control
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-### 📸 Photography & Creative Tools
-![Professional Photography](https://img.shields.io/badge/Professional%20Photography-000000?style=for-the-badge&logo=icloud&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+</div>
 
 ---
-*Self-hosted and automated on my private Infrastructure.*
+
+## 🏠 Home Lab & Media Automation
+Running a private self-hosted infrastructure focused on high availability:
+
+* **Virtualization:** **Proxmox VE** managing multiple VMs and LXC containers.
+* **Smart Home:** **Home Assistant** for central IoT orchestration.
+* **Media Stack:** Automated via **Jellyfin, Sonarr, Radarr, Prowlarr, and Bazarr**.
+* **Management:** Orchestrated via **Portainer** and **Docker**.
+* **Security:** Secure tunnels and identity management via **Cloudflare** & **Tailscale**.
+
+---
+
+## 📜 Certifications
+* 🏅 **MCSE** — Microsoft Certified Solutions Expert
+* 🏅 **MCSA** — Microsoft Certified Solutions Associate (Windows Server)
+
+---
+
+<div align="center">
+
+*Building, automating, and managing — one system at a time.*
+
+</div>
